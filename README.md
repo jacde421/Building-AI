@@ -1,9 +1,9 @@
 # **AI-driven Smart Traffic Management System**  
 *Final project for the Building AI course*
-
+---
 ## Summary
 This project aims to use AI to optimize traffic flow in cities by analyzing real-time data from cameras and sensors. Using machine learning, the system can predict traffic congestion and adjust traffic lights dynamically to reduce waiting times and emissions.
-
+---
 
 
 ## **Background**
